@@ -1,5 +1,5 @@
 # PredictingStartupSuccess
-Leveraged Lasso, Logistic regression, Random Forest, and Boosting to predict startup success with 95% accuracy 
+### We ultimately attempt to predict whether or not a company in a top US start up city will be successful using various Machine Learning Classifcation techinques. 
 
 ## Problem Statement
 ![2](https://user-images.githubusercontent.com/94769763/183249121-dd85e855-83c1-42d3-9741-57e3b21c47a1.png)
